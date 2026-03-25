@@ -4,6 +4,20 @@
 
 格式参考 Keep a Changelog，并采用语义化版本思路（当前以手工版本号管理）。
 
+## [Unreleased]
+
+### Added
+
+- 
+
+### Changed
+
+- 
+
+### Fixed
+
+- 
+
 ## [0.2.0] - 2026-03-24
 
 ### Added

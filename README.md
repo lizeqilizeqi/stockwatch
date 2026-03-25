@@ -82,6 +82,25 @@ stockwatch/
 - 缓存位置：`/cache`
 - 清缓存：删除 `cache` 目录中的 `sina_*` 文件
 
+## 版本与发布
+
+- 当前版本：见 `VERSION`
+- 变更历史：见 `CHANGELOG.md`
+- 发布流程：见 `RELEASE_PROCESS.md`
+- GitHub Release 模板：`.github/release-template.md`
+
+快速生成新版本（Windows）：
+
+```powershell
+scripts\release.bat patch
+```
+
+或指定版本号：
+
+```powershell
+scripts\release.bat 0.3.0
+```
+
 ## 常见问题
 
 ### 1) 页面可打开但数据为空
